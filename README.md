@@ -1,0 +1,1 @@
+在iOS tech talk Beijing 2011上看到不错的例子，分享一下～
